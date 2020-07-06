@@ -27,6 +27,7 @@ import javax.swing.JTextField;
  * Java Swing is used to implement the GUI of the application
  * Limitations: image sizes are limited by computer screen resolution (no scaling is implemented)
  */
+//asdf
 @SuppressWarnings("serial")
 public class ImageFilter extends JFrame implements ActionListener {
     private String fileName;
